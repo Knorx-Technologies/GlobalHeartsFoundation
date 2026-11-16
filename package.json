@@ -1,0 +1,27 @@
+{
+  "name": "global-hearts-foundation",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "lucide-react": "0.468.0",
+    "next": "16.3.8",
+    "react": "19.2.0",
+    "react-dom": "19.2.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "4.3.0",
+    "@types/node": "22.19.11",
+    "@types/react": "19.2.7",
+    "@types/react-dom": "19.2.3",
+    "eslint": "10.10.0",
+    "tailwindcss": "4.3.0",
+    "typescript-eslint": "8.71.1",
+    "typescript": "5.9.3"
+  }
+}
